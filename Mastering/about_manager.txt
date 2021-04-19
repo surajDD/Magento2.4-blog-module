@@ -1,0 +1,2 @@
+this module having front end blog and admin editable blog.
+base on magento 2.4

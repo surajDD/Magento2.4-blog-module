@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Mastering_BlogManager::blogmanager" translate="title" title="Blog Management" module="Mastering_BlogManager" sortOrder="10" resource="Mastering_BlogManager::blogmanager"/>
+        
+        <add id="Mastering_BlogManager::manage" translate="title" title="Manage" module="Mastering_BlogManager" sortOrder="10" resource="Mastering_BlogManager::manage" parent="Mastering_BlogManager::blogmanager" action="blog/manage/index"/>
+    </menu>
+</config>
