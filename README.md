@@ -15,5 +15,4 @@ used commands:<br>
 
 # Happy Coding:)<br>
 
-connect me :<br>
-suraj.dakre@gmail.com<br>
+
